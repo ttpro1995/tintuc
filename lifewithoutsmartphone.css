@@ -1,8 +1,15 @@
 body{
-	margin-left: 20%;
+	/*margin-left: 20%;
 	margin-right: 25%;
-	margin-bottom: 10%;
+	margin-bottom: 10%;*/
+	font-family: 'Itim', cursive;
 	background-color: #9c9ba0;
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
+
+.aaa{
+	color: red;
+}
+
+
